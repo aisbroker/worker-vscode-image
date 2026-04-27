@@ -1,0 +1,1 @@
+# Baseline OpenVSCode extensions to seed into the worker image.
