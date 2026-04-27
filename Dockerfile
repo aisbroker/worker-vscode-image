@@ -33,7 +33,7 @@ RUN    date -u +"%Y-%m-%dT%H:%M:%S%:z" >>      /root/.worker-vscode-image-github
 
 RUN    git config --global user.email "c@example.com" \
     && git config --global user.name "C H" \
-    && git config pull.rebase false  # merge \
+    && git config --global pull.rebase false  # merge \
     && mkdir -p \
         /opt/ai-devops-worker/bin \
         /opt/ai-devops-worker/vscode-seed \
