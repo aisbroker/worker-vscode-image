@@ -1,1 +1,15 @@
 # Baseline OpenVSCode extensions to seed into the worker image.
+docker.docker@0.18.0
+ecmel.vscode-html-css@2.0.14
+github.vscode-github-actions@0.31.5
+ms-azuretools.vscode-containers@2.4.3
+ms-azuretools.vscode-docker@2.0.0
+ms-python.debugpy@2026.6.0
+ms-python.python@2026.4.0
+ms-python.vscode-python-envs@1.20.1
+ms-toolsai.jupyter@2025.9.1
+ms-toolsai.jupyter-keymap@1.1.2
+ms-toolsai.jupyter-renderers@1.3.0
+ms-toolsai.vscode-jupyter-cell-tags@0.1.9
+ms-toolsai.vscode-jupyter-slideshow@0.1.6
+vue.volar@3.2.7
